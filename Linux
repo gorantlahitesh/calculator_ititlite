@@ -1,0 +1,34 @@
+Basic Linux Commands
+
+1. pwd -> print current working directory
+	/ -> root	bin -> binaries
+	
+2. ls	->	list all the files and directories inside work dir
+
+Inside the bin directory
+	bin -> binaries
+	home -> user directory (~) -> tilde
+	cd ~	->	Any dir to home directly
+	
+	admin user == super user == root user
+	sudo	->	for admin access
+	whoami	->	current user
+	
+	ls -l	->	directories in listed way
+total 12
+drwxr-xr-x  2 root              root              4096 Sep 26 10:46 abc
+drwxr-xr-x 15 itilite           itilite           4096 Sep 13 17:05 itilite
+drwxr-xr-x 19 saihiteshgorantla saihiteshgorantla 4096 Sep 26 10:37 saihiteshgorantla
+
+	first character d -> it's an directory
+	if it is hyphen(-) -> files
+	rwx	->	read write and execute
+	
+	
+	
+
+	
+
+	
+
+	
